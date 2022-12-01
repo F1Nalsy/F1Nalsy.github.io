@@ -137,8 +137,8 @@ a{
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
-    -webkit-filter: grayscale(0.65);
-    filter: grayscale(0.65);
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
     transition: all 0.3s ease;
 }
 /*倾斜动画css代码 结束*/
